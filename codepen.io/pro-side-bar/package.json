@@ -1,0 +1,17 @@
+{
+  "name": "pro-side-bar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile-sass": "sass src/sass.scss lib/style.css"
+  },
+  "author": "lucas machado",
+  "license": "ISC"
+}

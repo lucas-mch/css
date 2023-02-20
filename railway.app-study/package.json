@@ -1,0 +1,14 @@
+{
+  "name": "railway.app-study",
+  "version": "1.0.0",
+  "description": "A fork from website railway.app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Machado",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha1"
+  }
+}
